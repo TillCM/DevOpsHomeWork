@@ -1,7 +1,7 @@
 # My-Team Wiki
 This Wiki documents the collective & collaborative learnings of **adoptedReece**.
 
-![my-team-banner](wiki/resources/teambanner.JPG)
+![my-team-banner](https://github.com/TillCM/DevOpsHomeWork/blob/master/wiki/resources/teambanner.JPG)
 
 ## Table of Contents
 
