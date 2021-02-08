@@ -1,7 +1,7 @@
 # adoptedReece Wiki
 This Wiki documents the collective & collaborative learnings of **adoptedReece**.
 
-![my-team-banner](https://github.com/TillCM/DevOpsHomeWork/blob/master/wiki/resources/teambanner.JPG)
+![my-team-banner](wiki/resources/team-banner.jpg)
 
 ## Table of Contents
 
