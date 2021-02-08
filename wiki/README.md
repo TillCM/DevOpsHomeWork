@@ -1,12 +1,12 @@
-# My-Team Wiki
+# adoptedReece Wiki
 This Wiki documents the collective & collaborative learnings of **adoptedReece**.
 
-![my-team-banner](wiki/resources/teambanner.jpg)
+![my-team-banner](https://github.com/TillCM/DevOpsHomeWork/blob/master/wiki/resources/teambanner.JPG)
 
 ## Table of Contents
 
-* [Linux Tips](resources/linux-tips.md)
-* [github Tips](resources/git-tips.md)
+* [Linux Tips](content/linux-tips.md)
+* [github Tips](content/git-tips.md)
 
 
 ---
